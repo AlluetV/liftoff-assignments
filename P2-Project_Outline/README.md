@@ -29,7 +29,9 @@ Angular;
 JavaScript;
 Java;
 Spring Boot;
+sql
 ### What I'll Have to Learn
+UX/UI
 JavaScript;
 Angular;
 Java;
